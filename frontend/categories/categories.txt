@@ -1,0 +1,1 @@
+This repository will contain all architectural diagrams for categories
